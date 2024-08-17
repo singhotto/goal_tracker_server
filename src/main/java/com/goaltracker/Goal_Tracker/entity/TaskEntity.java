@@ -24,6 +24,5 @@ public class TaskEntity {
     private LocalTime start_time;
     private LocalTime end_time;
     private Date date;
-    private float duration_in_hours;
     private boolean completed;
 }
